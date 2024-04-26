@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-only-lT6afi9tRg](https://www.frontendmentor.io/solutions/qrcodecomponent-using-html-and-css-only-lT6afi9tRg)
 - Live Site URL: [https://mys1337.github.io/front-end-mentor-qr-code-component/](https://mys1337.github.io/front-end-mentor-qr-code-component/)
 
 ### Built with
