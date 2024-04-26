@@ -8,7 +8,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Links](#links)
 - [Built with](#built-with)
 - [What I learned](#what-i-learned)
-- [Continued development](#continued-development)
 - [Author](#author)
 
 ### Screenshot
@@ -26,8 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - Basic CSS
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I've never used this type of CSS in my coding journey, a nice finding to make more responsive design
@@ -36,10 +33,6 @@ I've never used this type of CSS in my coding journey, a nice finding to make mo
 @media only screen and ("condition") {
 }
 ```
-
-### Continued development
-
-I want to learn more about responsivity and be able to do better responsive design with better code
 
 ## Author
 
