@@ -43,6 +43,6 @@ I want to learn more about responsivity and be able to do better responsive desi
 
 ## Author
 
-- Website - [Miarinaly](https://www.your-site.com)
+- Website - [Miarinaly](https://mys1337.github.io/front-end-mentor-qr-code-component/)
 - Frontend Mentor - [@Mys1337](https://www.frontendmentor.io/profile/Mys1337)
 - discord - [Mys1337]
